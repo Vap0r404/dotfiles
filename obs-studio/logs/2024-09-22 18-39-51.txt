@@ -1,0 +1,112 @@
+18:39:51.415: Platform: Wayland
+18:39:51.415: CPU Name: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+18:39:51.415: CPU Speed: 3222.201MHz
+18:39:51.415: Physical Cores: 4, Logical Cores: 4
+18:39:51.415: Physical Memory: 15938MB Total, 2043MB Free
+18:39:51.415: Kernel Version: Linux 6.10.10-arch1-1
+18:39:51.415: Distribution: "Arch Linux" Unknown
+18:39:51.415: Desktop Environment: Hyprland ()
+18:39:51.415: Session Type: wayland
+18:39:51.421: Qt Version: 6.7.2 (runtime), 6.7.2 (compiled)
+18:39:51.421: Portable mode: false
+18:39:51.551: OBS 30.2.1-1 (linux)
+18:39:51.551: ---------------------------------
+18:39:51.552: ---------------------------------
+18:39:51.552: audio settings reset:
+18:39:51.552: 	samples per sec: 48000
+18:39:51.552: 	speakers:        2
+18:39:51.552: 	max buffering:   960 milliseconds
+18:39:51.552: 	buffering type:  dynamically increasing
+18:39:51.561: ---------------------------------
+18:39:51.561: Initializing OpenGL...
+18:39:51.561: Using EGL/Wayland
+18:39:51.614: Initialized EGL 1.5
+18:39:51.635: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 750 Ti/PCIe/SSE2
+18:39:51.635: OpenGL loaded successfully, version 3.3.0 NVIDIA 560.35.03, shading language 3.30 NVIDIA via Cg compiler
+18:39:51.843: ---------------------------------
+18:39:51.843: video settings reset:
+18:39:51.843: 	base resolution:   1680x1050
+18:39:51.843: 	output resolution: 1120x700
+18:39:51.843: 	downscale filter:  Bicubic
+18:39:51.843: 	fps:               30/1
+18:39:51.843: 	format:            NV12
+18:39:51.843: 	YUV mode:          Rec. 709/Partial
+18:39:51.843: NV12 texture support enabled
+18:39:51.843: P010 texture support not available
+18:39:51.844: Audio monitoring device:
+18:39:51.844: 	name: Domyślne
+18:39:51.844: 	id: default
+18:39:51.844: ---------------------------------
+18:39:51.856: Failed to load 'en-US' text for module: 'decklink-captions.so'
+18:39:51.869: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+18:39:51.879: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+18:39:51.879: Failed to initialize module 'decklink.so'
+18:39:52.165: [pipewire] Available capture sources:
+18:39:52.165: [pipewire]     - Monitor source
+18:39:52.165: [pipewire]     - Window source
+18:39:52.208: v4l2loopback not installed, virtual camera not registered
+18:39:52.858: NVENC supported
+18:39:53.008: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+18:39:53.008: FFmpeg VAAPI H264 encoding not supported
+18:39:53.009: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+18:39:53.009: FFmpeg VAAPI AV1 encoding not supported
+18:39:53.009: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+18:39:53.009: FFmpeg VAAPI HEVC encoding not supported
+18:39:53.157: ---------------------------------
+18:39:53.157:   Loaded Modules:
+18:39:53.157:     text-freetype2.so
+18:39:53.157:     rtmp-services.so
+18:39:53.157:     obs-x264.so
+18:39:53.157:     obs-webrtc.so
+18:39:53.157:     obs-vst.so
+18:39:53.157:     obs-transitions.so
+18:39:53.157:     obs-qsv11.so
+18:39:53.157:     obs-outputs.so
+18:39:53.157:     obs-libfdk.so
+18:39:53.157:     obs-filters.so
+18:39:53.158:     obs-ffmpeg.so
+18:39:53.158:     linux-v4l2.so
+18:39:53.158:     linux-pulseaudio.so
+18:39:53.158:     linux-pipewire.so
+18:39:53.158:     linux-jack.so
+18:39:53.158:     linux-capture.so
+18:39:53.158:     linux-alsa.so
+18:39:53.158:     image-source.so
+18:39:53.158:     frontend-tools.so
+18:39:53.158:     decklink-output-ui.so
+18:39:53.158:     decklink-captions.so
+18:39:53.158: ---------------------------------
+18:39:53.158: ---------------------------------
+18:39:53.158: Available Encoders:
+18:39:53.158:   Video Encoders:
+18:39:53.158: 	- ffmpeg_svt_av1 (SVT-AV1)
+18:39:53.158: 	- ffmpeg_aom_av1 (AOM AV1)
+18:39:53.158: 	- jim_nvenc (NVIDIA NVENC H.264)
+18:39:53.158: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+18:39:53.158: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+18:39:53.158: 	- obs_x264 (x264)
+18:39:53.158:   Audio Encoders:
+18:39:53.158: 	- ffmpeg_aac (FFmpeg AAC)
+18:39:53.158: 	- ffmpeg_opus (FFmpeg Opus)
+18:39:53.158: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bitowy))
+18:39:53.158: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bitowy))
+18:39:53.158: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bitowy zmiennoprzecinkowy))
+18:39:53.158: 	- ffmpeg_alac (FFmpeg ALAC (24-bitowy))
+18:39:53.158: 	- ffmpeg_flac (FFmpeg FLAC (16-bitowy))
+18:39:53.158: 	- libfdk_aac (libfdk AAC)
+18:39:53.158: ==== Startup complete ===============================================
+18:39:53.164: No scene file found, creating default scene
+18:39:53.197: All scene data cleared
+18:39:53.197: ------------------------------------------------
+18:39:53.212: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.4) 15.0.0'
+18:39:53.212: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+18:39:53.213: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+18:39:53.213: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.4) 15.0.0'
+18:39:53.214: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+18:39:53.214: pulse-input: Started recording from 'alsa_input.usb-Generic_USB2.0_Device_20170726905957-00.mono-fallback' (default)
+18:39:53.216: Switched to scene 'Scena'
+18:39:53.217: Failed to glob scene collections
+18:39:53.738: [rtmp-services plugin] Successfully updated file 'services.json' (version 263)
+18:39:53.738: [rtmp-services plugin] Successfully updated package (version 263)
+18:39:53.984: adding 234 milliseconds of audio buffering, total audio buffering is now 234 milliseconds (source: Urządzenie audio)
+18:39:53.984: 
