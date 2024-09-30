@@ -13,11 +13,7 @@
     "custom/pacman",
     "tray",
     "sway/mode",
-    "custom/cava-internal",
-    "mpd#2",
-    "mpd#3",
-    "mpd#4",
-    "mpd"
+    "custom/cava-internal"
   ],
   "modules-center": ["clock"],
   "modules-right": [
@@ -190,7 +186,7 @@
   },
   "memory": {
     "format": "{: >3}% ",
-    "on-click": "foot -e htop"
+    "on-click": "foot -e btop"
   },
   "temperature": {
     // "thermal-zone": 2,

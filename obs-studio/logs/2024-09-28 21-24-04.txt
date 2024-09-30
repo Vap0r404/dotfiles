@@ -1,0 +1,181 @@
+21:24:04.819: Using EGL/X11
+21:24:04.819: CPU Name: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+21:24:04.819: CPU Speed: 3356.096MHz
+21:24:04.819: Physical Cores: 4, Logical Cores: 4
+21:24:04.819: Physical Memory: 15938MB Total, 11988MB Free
+21:24:04.819: Kernel Version: Linux 6.10.10-arch1-1
+21:24:04.820: Distribution: "Arch Linux" Unknown
+21:24:04.820: Desktop Environment: Hyprland ()
+21:24:04.820: Session Type: wayland
+21:24:04.820: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.24.1
+21:24:04.820: Qt Version: 6.7.3 (runtime), 6.7.2 (compiled)
+21:24:04.820: Portable mode: false
+21:24:04.910: OBS 30.2.1-1 (linux)
+21:24:04.910: ---------------------------------
+21:24:04.911: ---------------------------------
+21:24:04.911: audio settings reset:
+21:24:04.911: 	samples per sec: 48000
+21:24:04.911: 	speakers:        2
+21:24:04.911: 	max buffering:   960 milliseconds
+21:24:04.911: 	buffering type:  dynamically increasing
+21:24:04.919: ---------------------------------
+21:24:04.919: Initializing OpenGL...
+21:24:05.025: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 750 Ti/PCIe/SSE2
+21:24:05.025: OpenGL loaded successfully, version 3.3.0 NVIDIA 560.35.03, shading language 3.30 NVIDIA via Cg compiler
+21:24:05.057: ---------------------------------
+21:24:05.057: video settings reset:
+21:24:05.057: 	base resolution:   1680x1050
+21:24:05.057: 	output resolution: 1120x700
+21:24:05.057: 	downscale filter:  Bicubic
+21:24:05.057: 	fps:               30/1
+21:24:05.057: 	format:            NV12
+21:24:05.057: 	YUV mode:          Rec. 709/Partial
+21:24:05.057: NV12 texture support enabled
+21:24:05.057: P010 texture support not available
+21:24:05.058: Audio monitoring device:
+21:24:05.058: 	name: Domyślne
+21:24:05.058: 	id: default
+21:24:05.058: ---------------------------------
+21:24:05.066: Failed to load 'en-US' text for module: 'decklink-captions.so'
+21:24:05.077: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+21:24:05.085: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+21:24:05.085: Failed to initialize module 'decklink.so'
+21:24:05.300: [pipewire] No capture sources available
+21:24:05.440: NVENC supported
+21:24:05.440: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+21:24:05.440: FFmpeg VAAPI H264 encoding not supported
+21:24:05.440: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+21:24:05.440: FFmpeg VAAPI AV1 encoding not supported
+21:24:05.440: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+21:24:05.440: FFmpeg VAAPI HEVC encoding not supported
+21:24:05.566: ---------------------------------
+21:24:05.566:   Loaded Modules:
+21:24:05.566:     text-freetype2.so
+21:24:05.566:     rtmp-services.so
+21:24:05.566:     obs-x264.so
+21:24:05.566:     obs-webrtc.so
+21:24:05.566:     obs-vst.so
+21:24:05.566:     obs-transitions.so
+21:24:05.566:     obs-qsv11.so
+21:24:05.566:     obs-outputs.so
+21:24:05.566:     obs-libfdk.so
+21:24:05.566:     obs-filters.so
+21:24:05.566:     obs-ffmpeg.so
+21:24:05.566:     linux-v4l2.so
+21:24:05.566:     linux-pulseaudio.so
+21:24:05.566:     linux-pipewire.so
+21:24:05.566:     linux-jack.so
+21:24:05.566:     linux-capture.so
+21:24:05.566:     linux-alsa.so
+21:24:05.566:     image-source.so
+21:24:05.566:     frontend-tools.so
+21:24:05.566:     decklink-output-ui.so
+21:24:05.566:     decklink-captions.so
+21:24:05.566: ---------------------------------
+21:24:05.566: ---------------------------------
+21:24:05.566: Available Encoders:
+21:24:05.566:   Video Encoders:
+21:24:05.566: 	- ffmpeg_svt_av1 (SVT-AV1)
+21:24:05.566: 	- ffmpeg_aom_av1 (AOM AV1)
+21:24:05.566: 	- jim_nvenc (NVIDIA NVENC H.264)
+21:24:05.566: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+21:24:05.566: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+21:24:05.566: 	- obs_x264 (x264)
+21:24:05.566:   Audio Encoders:
+21:24:05.566: 	- ffmpeg_aac (FFmpeg AAC)
+21:24:05.566: 	- ffmpeg_opus (FFmpeg Opus)
+21:24:05.566: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bitowy))
+21:24:05.566: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bitowy))
+21:24:05.566: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bitowy zmiennoprzecinkowy))
+21:24:05.566: 	- ffmpeg_alac (FFmpeg ALAC (24-bitowy))
+21:24:05.566: 	- ffmpeg_flac (FFmpeg FLAC (16-bitowy))
+21:24:05.566: 	- libfdk_aac (libfdk AAC)
+21:24:05.566: ==== Startup complete ===============================================
+21:24:05.572: No scene file found, creating default scene
+21:24:05.594: All scene data cleared
+21:24:05.594: ------------------------------------------------
+21:24:05.604: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.5) 15.0.0'
+21:24:05.604: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+21:24:05.604: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+21:24:05.605: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.5) 15.0.0'
+21:24:05.607: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+21:24:05.607: pulse-input: Started recording from 'alsa_input.usb-Generic_USB2.0_Device_20170726905957-00.mono-fallback' (default)
+21:24:05.608: Switched to scene 'Scena'
+21:24:05.608: Failed to glob scene collections
+21:24:06.170: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Urządzenie audio)
+21:24:06.170: 
+21:24:06.239: [rtmp-services plugin] Successfully updated file 'services.json' (version 264)
+21:24:06.239: [rtmp-services plugin] Successfully updated package (version 264)
+21:24:27.197: 
+21:24:27.197: ==== Auto-config wizard testing commencing ======
+
+21:24:33.264: Number of remaining views: 1
+21:24:33.264: ---------------------------------
+21:24:33.264: video settings reset:
+21:24:33.264: 	base resolution:   1680x1050
+21:24:33.264: 	output resolution: 1152x720
+21:24:33.264: 	downscale filter:  Bicubic
+21:24:33.264: 	fps:               60/1
+21:24:33.264: 	format:            NV12
+21:24:33.264: 	YUV mode:          Rec. 709/Partial
+21:24:33.264: NV12 texture support enabled
+21:24:33.264: P010 texture support not available
+21:24:33.267: 
+21:24:33.267: ==== Auto-config wizard testing stopping ========
+
+21:24:36.191: Get on org.freedesktop.portal.Settings returned an invalid reply
+21:24:36.192: Get on org.freedesktop.portal.Settings returned an invalid reply
+21:24:36.370:   OpenType support missing for "Open Sans", script 11
+21:24:36.379:   OpenType support missing for "Arial", script 11
+21:24:36.427:   OpenType support missing for "Open Sans", script 12
+21:24:36.437:   OpenType support missing for "Arial", script 12
+21:24:36.460:   OpenType support missing for "Open Sans", script 16
+21:24:36.470:   OpenType support missing for "Arial", script 16
+21:24:36.485:   OpenType support missing for "Open Sans", script 20
+21:24:36.494:   OpenType support missing for "Arial", script 20
+21:25:09.334: Number of remaining views: 1
+21:25:09.334: ---------------------------------
+21:25:09.334: video settings reset:
+21:25:09.334: 	base resolution:   1680x1050
+21:25:09.334: 	output resolution: 1920x1080
+21:25:09.334: 	downscale filter:  Bicubic
+21:25:09.334: 	fps:               60/1
+21:25:09.334: 	format:            NV12
+21:25:09.334: 	YUV mode:          Rec. 709/Partial
+21:25:09.335: NV12 texture support enabled
+21:25:09.335: P010 texture support not available
+21:25:09.335: Settings changed (video, advanced)
+21:25:09.335: ------------------------------------------------
+21:26:39.166: Settings changed (outputs)
+21:26:39.166: ------------------------------------------------
+21:26:44.090: [window-capture: 'Przechwytywanie okna (XComposite)'] update settings:
+21:26:44.090: 	title: Pacman cheatsheet - Opera
+21:26:44.090: 	class: Opera
+21:26:44.090: 
+21:26:44.093: User added source 'Przechwytywanie okna (XComposite)' (xcomposite_input) to scene 'Scena'
+21:26:44.119: [window-capture: 'Przechwytywanie okna (XComposite)'] update settings:
+21:26:44.119: 	title: #➜●-𝙤𝙜𝙤́𝙡𝙣𝙮 | chlorki - Discord
+21:26:44.119: 	class: discord
+21:26:44.119: 
+21:26:47.052: [window-capture: 'Przechwytywanie okna (XComposite)'] update settings:
+21:26:47.052: 	title: OBS 30.2.1-1 - Profile: Bez tytułu - Sceny: Bez tytułu
+21:26:47.052: 	class: obs
+21:26:47.052: 
+21:26:47.902: [window-capture: 'Przechwytywanie okna (XComposite)'] update settings:
+21:26:47.902: 	title: Pacman cheatsheet - Opera
+21:26:47.902: 	class: Opera
+21:26:47.902: 
+21:26:48.819: [window-capture: 'Przechwytywanie okna (XComposite)'] update settings:
+21:26:48.819: 	title: Właściwości dla 'Przechwytywanie okna (XComposite)'
+21:26:48.819: 	class: obs
+21:26:48.819: 
+21:26:49.470: [window-capture: 'Przechwytywanie okna (XComposite)'] update settings:
+21:26:49.470: 	title: Pacman cheatsheet - Opera
+21:26:49.470: 	class: Opera
+21:26:49.470: 
+21:26:51.855: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 1201
+21:27:00.905: User Removed source 'Przechwytywanie okna (XComposite)' (xcomposite_input) from scene 'Scena'
+21:27:03.743: xshm-input: Geometry 1680x1050 @ 0,0
+21:27:03.747: User added source 'Przechwytywanie ekranu (XSHM)' (xshm_input) to scene 'Scena'
+21:27:07.570: xshm-input: Geometry 1680x1050 @ 0,0
+21:27:09.910: User Removed source 'Przechwytywanie ekranu (XSHM)' (xshm_input) from scene 'Scena'
